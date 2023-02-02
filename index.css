@@ -1,0 +1,10 @@
+.footer-main-container{
+    background-color: black;
+    color:white ;
+
+}
+.card :hover{
+    background-color: black;
+    color: white;
+    transition-duration: 500ms;
+}
